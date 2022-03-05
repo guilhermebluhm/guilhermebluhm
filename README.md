@@ -5,11 +5,11 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>C#, Java, Python</strong>
+  🦄 Linguagens: <strong>Java, PHP, Kotlin</strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>Flask, HTML5, CSS3, Mysql, Spring Boot</strong>
+  💼 Ferramentas: <strong>HTML5, CSS3, Mysql, Spring Boot</strong>
 </p>
 
 <p align="left">
