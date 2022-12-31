@@ -1,15 +1,15 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Olá devs e recrutadores, me chamo Guilherme Saraiva, meu nick e assembly, sou estudante de ciências da computação na UNIFOR, sou desenvolvedor backend mas com maior, tenho conhecimento em linux, noções de containers com docker, java e seu ecosistema spring, além do mais desbravando também o c++ com foco em programação de mais baixo nivel.
+  Olá devs e recrutadores, me chamo Guilherme Saraiva, meu nick e assembly, sou estudante de ciências da computação na UNIFOR, sou desenvolvedor backend mas com maior, tenho conhecimento em linux, noções de containers com docker, java e seu ecosistema spring, além do mais desbravando também o Rust com foco em programação de mais baixo nivel.
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>Java</strong>
+  🦄 Linguagens: <strong>Java, Rust</strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>Mysql, Oracle, Spring Boot/Security, Docker, Linux, C++</strong>
+  💼 Ferramentas: <strong>Mysql, Oracle, Spring Boot/Security, Docker, Linux, Rust</strong>
 </p>
 
 <p align="left">
