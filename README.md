@@ -1,15 +1,15 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Olá devs e recrutadores, me chamo Guilherme Saraiva, meu nick e assembly, sou estudante de ciências da computação na UNIFOR, sou desenvolvedor fullstack, tenho conhecimento em linux, docker, java/ecosistema spring e .net, além do mais também o c++ com foco em programação de mais baixo nivel.
+  Olá devs e recrutadores, me chamo Guilherme Bluhm, também conhecido como Elxadal, sou cientista da computação, com larga experiência no ecossistema java com enfânse em projetos legados e também focado no desenvolvimento baixo nível com Rust.
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>Java, C++, C#</strong>
+  🦄 Linguagens: <strong>Java, C#, Rust, Python</strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>Mysql, Oracle, Spring Boot/Security, Docker, Linux, Rust</strong>
+  💼 Ferramentas: <strong>Oracle, Postgres, SpringBoot/JSF/Richfaces/Ireport, Docker, Linux, Rust</strong>
 </p>
 
 <p align="left">
@@ -24,5 +24,5 @@
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-saraiva-872936206/" /></a>
 
   <a href="#" alt="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5585986839513"/></a>
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5541991736782"/></a>
 </p>  
