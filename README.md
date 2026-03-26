@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Olá devs e recrutadores, me chamo Guilherme Bluhm, também conhecido como Elxadal, sou cientista da computação, com larga experiência no ecossistema java com enfânse em projetos legados, participando principalmente em projetos envolvendo sistemas de missão crítica 24x7 e também focado no desenvolvimento baixo de nível com Rust.
+  Olá devs e recrutadores, me chamo Guilherme Bluhm, sou cientista da computação, com larga experiência no ecossistema java com enfânse em projetos legados, participando principalmente em projetos envolvendo sistemas de missão crítica 24x7 e também focado no desenvolvimento baixo de nível com Rust.
 </p>
 
 <p align="left">
